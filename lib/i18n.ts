@@ -16,11 +16,11 @@ export const translations = {
     callNow: "Call Now",
 
     // Homepage
-    companyName: "GAMSAWA NIG. LTD",
+    companyName: "MEYS",
     tagline: "Supplying the World with Premium Charcoal & Natural Hardwood",
     requestQuote: "Request a Quote",
     viewProducts: "View Products",
-    whyChoose: "Why Choose GAMSAWA NIG. LTD?",
+    whyChoose: "Why Choose MEYS?",
     trustedPartner: "Your trusted partner for premium charcoal and hardwood exports from Nigeria to the world",
 
     // Features
@@ -66,11 +66,11 @@ export const translations = {
       "Premium hardwood specifically selected and processed for furniture manufacturing and woodworking.",
 
     // About
-    aboutTitle: "About GAMSAWA NIG. LTD",
+    aboutTitle: "About MEYS",
     aboutSubtitle: "Your trusted partner for premium charcoal and hardwood exports",
     ourStory: "Our Story",
     storyP1:
-      "GAMSAWA NIG. LTD is a registered export company (RC-2004612) based in Bauchi, Nigeria. We specialize in the sourcing and supply of clean, high-quality charcoal and hardwood to international buyers.",
+      "MEYS is a registered export company (RC-2004612) based in Bauchi, Nigeria. We specialize in the sourcing and supply of clean, high-quality charcoal and hardwood to international buyers.",
     storyP2:
       "With strict attention to quality, packaging, and timely shipping, we aim to become a trusted long-term partner for businesses worldwide. Our commitment to excellence has made us a preferred supplier across the Middle East, Africa, and Asia.",
     storyP3:
@@ -93,7 +93,7 @@ export const translations = {
       "To provide the global market with premium quality charcoal and hardwood products while maintaining the highest standards of sustainability, reliability, and customer service. We strive to be the preferred partner for businesses seeking consistent, high-quality natural products from Nigeria.",
     ourVision: "Our Vision",
     visionText:
-      "To become the leading exporter of premium charcoal and hardwood products from Nigeria, recognized globally for our commitment to quality, sustainability, and customer satisfaction. We envision a future where GAMSAWA NIG. LTD is synonymous with excellence in natural product exports.",
+      "To become the leading exporter of premium charcoal and hardwood products from Nigeria, recognized globally for our commitment to quality, sustainability, and customer satisfaction. We envision a future where MEYS is synonymous with excellence in natural product exports.",
 
     // Contact
     contactTitle: "Contact Us",
@@ -167,11 +167,11 @@ export const translations = {
     callNow: "اتصل الآن",
 
     // Homepage
-    companyName: "جامساوا نيجيريا المحدودة",
+    companyName: "MEYS",
     tagline: "نزود العالم بالفحم الممتاز والأخشاب الطبيعية",
     requestQuote: "طلب عرض سعر",
     viewProducts: "عرض المنتجات",
-    whyChoose: "لماذا تختار جامساوا نيجيريا المحدودة؟",
+    whyChoose: "لماذا تختار MEYS؟",
     trustedPartner: "شريكك الموثوق لتصدير الفحم والأخشاب الممتازة من نيجيريا إلى العالم",
 
     // Features
@@ -212,11 +212,11 @@ export const translations = {
     furnitureWoodDesc: "أخشاب صلبة ممتازة مختارة ومعالجة خصيصاً لتصنيع الأثاث والنجارة.",
 
     // About
-    aboutTitle: "حول جامساوا نيجيريا المحدودة",
+    aboutTitle: "حول MEYS",
     aboutSubtitle: "شريكك الموثوق لتصدير الفحم والأخشاب الممتازة",
     ourStory: "قصتنا",
     storyP1:
-      "جامساوا نيجيريا المحدودة هي شركة تصدير مسجلة (RC-2004612) مقرها في باوتشي، نيجيريا. نحن متخصصون في توريد وإمداد الفحم والأخشاب الصلبة عالية الجودة والنظيفة للمشترين الدوليين.",
+      "MEYS هي شركة تصدير مسجلة (RC-2004612) مقرها في باوتشي، نيجيريا. نحن متخصصون في توريد وإمداد الفحم والأخشاب الصلبة عالية الجودة والنظيفة للمشترين الدوليين.",
     storyP2:
       "مع الاهتمام الصارم بالجودة والتعبئة والشحن في الوقت المحدد، نهدف إلى أن نصبح شريكاً موثوقاً طويل الأمد للشركات في جميع أنحاء العالم. التزامنا بالتميز جعلنا مورداً مفضلاً في الشرق الأوسط وأفريقيا وآسيا.",
     storyP3:
@@ -239,7 +239,7 @@ export const translations = {
       "تزويد السوق العالمي بمنتجات الفحم والأخشاب الصلبة عالية الجودة مع الحفاظ على أعلى معايير الاستدامة والموثوقية وخدمة العملاء. نسعى لأن نكون الشريك المفضل للشركات التي تبحث عن منتجات طبيعية عالية الجودة ومتسقة من نيجيريا.",
     ourVision: "رؤيتنا",
     visionText:
-      "أن نصبح المصدر الرائد لمنتجات الفحم والأخشاب الصلبة الممتازة من نيجيريا، معترف بنا عالمياً لالتزامنا بالجودة والاستدامة ورضا العملاء. نتصور مستقبلاً حيث تكون جامساوا نيجيريا المحدودة مرادفة للتميز في صادرات المنتجات الطبيعية.",
+      "أن نصبح المصدر الرائد لمنتجات الفحم والأخشاب الصلبة الممتازة من نيجيريا، معترف بنا عالمياً لالتزامنا بالجودة والاستدامة ورضا العملاء. نتصور مستقبلاً حيث تكون MEYS مرادفة للتميز في صادرات المنتجات الطبيعية.",
 
     // Contact
     contactTitle: "اتصل بنا",

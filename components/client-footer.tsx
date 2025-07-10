@@ -15,7 +15,7 @@ export default function ClientFooter() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-bold mb-4 text-green-400">GAMSAWA NIG. LTD</h3>
+            <h3 className="text-xl font-bold mb-4 text-green-400">MEYS</h3>
             <p className="text-gray-300 mb-4">
               Premium charcoal and hardwood supplier serving global markets with quality and reliability.
             </p>
@@ -103,7 +103,7 @@ export default function ClientFooter() {
         <div className="border-t border-gray-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 GAMSAWA NIG. LTD - {t("allRightsReserved")}
+              © 2024 MEYS - {t("allRightsReserved")}
             </p>
             <div className="flex space-x-6 rtl:space-x-reverse mt-4 md:mt-0">
               <Link href="#" className="text-gray-400 hover:text-green-400 text-sm transition-colors">

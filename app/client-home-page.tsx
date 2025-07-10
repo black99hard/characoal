@@ -24,7 +24,7 @@ export default function ClientHomePage() {
           }}
         />
         <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6">GAMSAWA NIG. LTD</h1>
+          <h1 className="text-5xl md:text-7xl font-bold mb-6">MEYS</h1>
           <p className="text-xl md:text-2xl mb-8 font-light">{t("tagline")}</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg" className="bg-green-600 hover:bg-green-700 text-lg px-8 py-3">

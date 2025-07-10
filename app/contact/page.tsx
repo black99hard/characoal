@@ -131,7 +131,7 @@ export default function ContactPage() {
                   <Mail className="h-6 w-6 text-green-600 mt-1" />
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-gray-600">info@gamsawanig.com</p>
+                    <p className="text-gray-600">info@meys.com</p>
                   </div>
                 </div>
 
@@ -197,7 +197,7 @@ export default function ContactPage() {
                   <Globe className="h-6 w-6 text-green-600 mt-1" />
                   <div>
                     <p className="text-gray-600">
-                      <strong>Company Registration:</strong> RC-2004612
+                      <strong>Company Registration:</strong> RC-8516167
                       <br />
                       <strong>Export License:</strong> Available upon request
                       <br />

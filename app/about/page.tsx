@@ -31,7 +31,7 @@ export default function AboutPage() {
       {/* Header */}
       <section className="bg-green-800 text-white py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">About GAMSAWA NIG. LTD</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">About MEYS</h1>
           <p className="text-xl">Your trusted partner for premium charcoal and hardwood exports</p>
         </div>
       </section>
@@ -45,7 +45,7 @@ export default function AboutPage() {
                 <h2 className="text-3xl font-bold text-gray-800 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    GAMSAWA NIG. LTD is a registered export company (RC-2004612) based in Bauchi, Nigeria. We specialize
+                   MEYS is a registered export company (RC-2004612) based in Bauchi, Nigeria. We specialize
                     in the sourcing and supply of clean, high-quality charcoal and hardwood to international buyers.
                   </p>
                   <p>
@@ -148,7 +148,7 @@ export default function AboutPage() {
                 <p className="text-gray-600 leading-relaxed">
                   To become the leading exporter of premium charcoal and hardwood products from Nigeria, recognized
                   globally for our commitment to quality, sustainability, and customer satisfaction. We envision a
-                  future where GAMSAWA NIG. LTD is synonymous with excellence in natural product exports.
+                  future whereMEYS is synonymous with excellence in natural product exports.
                 </p>
               </CardContent>
             </Card>

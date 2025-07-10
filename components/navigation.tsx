@@ -30,7 +30,7 @@ export default function Navigation() {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <Link href="/" className="text-2xl font-bold text-green-800">
-            {language === "ar" ? "جامساوا نيجيريا المحدودة" : "GAMSAWA NIG. LTD"}
+            {language === "ar" ? "MEYS" : "MEYS"}
           </Link>
 
           {/* Desktop Navigation */}

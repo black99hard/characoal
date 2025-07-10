@@ -8,7 +8,7 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "GAMSAWA NIG. LTD - Premium Charcoal & Hardwood Export",
+  title: "MEYS - Premium Charcoal & Hardwood Export",
   description:
     "Leading Nigerian exporter of premium charcoal and hardwood products. Supplying quality BBQ charcoal, industrial charcoal, timber logs, and furniture-grade wood to global markets.",
   keywords:
