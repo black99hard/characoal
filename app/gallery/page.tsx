@@ -6,47 +6,47 @@ import { Star } from "lucide-react"
 export default function GalleryPage() {
   const galleryImages = [
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "Premium Charcoal in 20kg Bags",
       category: "Charcoal",
     },
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "Hardwood Timber Logs",
       category: "Hardwood",
     },
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "Container Loading Process",
       category: "Logistics",
     },
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "BBQ Charcoal Quality Check",
       category: "Charcoal",
     },
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "Furniture-Grade Wood Selection",
       category: "Hardwood",
     },
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "Export Packaging Standards",
       category: "Logistics",
     },
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "Industrial Charcoal Production",
       category: "Charcoal",
     },
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "Seasoned Firewood Stacks",
       category: "Hardwood",
     },
     {
-      src: "/logo.jpg?height=400&width=600",
+      src: "/logo.png?height=400&width=600",
       title: "Quality Control Process",
       category: "Logistics",
     },

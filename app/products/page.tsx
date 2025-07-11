@@ -11,21 +11,21 @@ export default function ProductsPage() {
       description:
         "High-quality charcoal made from premium hardwood, perfect for BBQ and grilling. Burns longer and hotter than regular charcoal.",
       specs: ["20kg bags", "Low ash content", "Long burning time", "Smokeless"],
-      image: "/logo.jpg?height=300&width=400",
+      image: "/logo.png?height=300&width=400",
     },
     {
       name: "BBQ Charcoal",
       description:
         "Specially processed charcoal ideal for barbecue and outdoor cooking. Provides consistent heat and excellent flavor.",
       specs: ["5kg, 10kg, 20kg bags", "Quick ignition", "Even heat distribution", "Food-grade quality"],
-      image: "/logo.jpg?height=300&width=400",
+      image: "/logo.png?height=300&width=400",
     },
     {
       name: "Industrial Use Charcoal",
       description:
         "High-carbon content charcoal for industrial applications, energy production, and manufacturing processes.",
       specs: ["Bulk packaging", "High carbon content", "Low moisture", "Consistent quality"],
-      image: "/logo.jpg?height=300&width=400",
+      image: "/logo.png?height=300&width=400",
     },
   ]
 
@@ -34,19 +34,19 @@ export default function ProductsPage() {
       name: "Timber Logs",
       description: "Premium quality timber logs from sustainable forests, suitable for construction and manufacturing.",
       specs: ["Various sizes available", "Kiln-dried options", "Construction grade", "Export quality"],
-      image: "/logo.jpg?height=300&width=400",
+      image: "/logo.png?height=300&width=400",
     },
     {
       name: "Firewood",
       description: "Seasoned hardwood firewood for heating and energy production. Clean burning with high heat output.",
       specs: ["Seasoned and dried", "Various wood types", "Bulk quantities", "Consistent moisture content"],
-      image: "/logo.jpg?height=300&width=400",
+      image: "/logo.png?height=300&width=400",
     },
     {
       name: "Furniture-Grade Wood",
       description: "Premium hardwood specifically selected and processed for furniture manufacturing and woodworking.",
       specs: ["Premium grade selection", "Kiln-dried", "Various species", "Custom dimensions"],
-      image: "/logo.jpg?height=300&width=400",
+      image: "/logo.png?height=300&width=400",
     },
   ]
 

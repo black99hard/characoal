@@ -19,7 +19,7 @@ export default function ClientHomePage() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: "url('/logo.jpg?height=1080&width=1920')",
+            backgroundImage: "url('/logo.png?height=1080&width=1920')",
             filter: "brightness(0.3)",
           }}
         />
@@ -101,7 +101,7 @@ export default function ClientHomePage() {
             <Card className="overflow-hidden hover:shadow-xl transition-shadow">
               <div className="h-64 bg-gray-200 relative">
                 <Image
-                  src="/logo.jpg?height=256&width=400"
+                  src="/logo.png?height=256&width=400"
                   alt="Premium Charcoal Products"
                   fill
                   className="object-cover"
@@ -119,7 +119,7 @@ export default function ClientHomePage() {
             <Card className="overflow-hidden hover:shadow-xl transition-shadow">
               <div className="h-64 bg-gray-200 relative">
                 <Image
-                  src="/logo.jpg?height=256&width=400"
+                  src="/logo.png?height=256&width=400"
                   alt="Premium Hardwood Products"
                   fill
                   className="object-cover"
