@@ -77,7 +77,7 @@ export default function ClientFooter() {
               </div>
               <div className="flex items-start space-x-3 rtl:space-x-reverse">
                 <Mail className="h-5 w-5 text-green-400 mt-0.5" />
-                <span className="text-gray-300">info@gamsawanig.com</span>
+                <span className="text-gray-300">info@meys.com</span>
               </div>
               <div className="flex items-start space-x-3 rtl:space-x-reverse">
                 <MapPin className="h-5 w-5 text-green-400 mt-0.5" />
